@@ -2,15 +2,24 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Main : MonoBehaviour {
+
+
+
+/// <summary>
+/// 主项目
+/// </summary>
+public class Main : MonoBehaviour
+{
 
 	// Use this for initialization
-	void Start () {
+	void Start ()
+    {
+
+
+
 		
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+
+
+
 }
